@@ -3,7 +3,7 @@
 *Approved by TOC: 2018-06-11*
 
 [العربية](#العربية) (Arabic) | [中文版本](#中文版本) (Chinese) |  [עברית](#עברית) (Hebrew) | [日本語版](#日本語版) (Japanese) | [한국어](#한국어) (Korean) | [Deutsch](#deutsch) (German) | [Español](#español) (Spanish)  
-[Français](#français) (French) | [Polski](#polski) (Polish) | [Português Brasileiro](#português-brasileiro) (Portuguese-BR) | [Português de Portugal](#português-de-portugal) (Portuguese-PT) | [Русский](#русский) (Russian) | [Bahasa Indonesia](#bahasa-indonesia) (Indonesian) | [Türkçe](#türkçe) (Turkish) | [Български](#български) (Bulgarian) | [ไทย](#ไทย) (Thai)
+| [Dansk](#dansk) (Danish) | [Français](#français) (French) | [Polski](#polski) (Polish) | [Português Brasileiro](#português-brasileiro) (Portuguese-BR) | [Português de Portugal](#português-de-portugal) (Portuguese-PT) | [Русский](#русский) (Russian) | [Bahasa Indonesia](#bahasa-indonesia) (Indonesian) | [Türkçe](#türkçe) (Turkish) | [Български](#български) (Bulgarian) | [ไทย](#ไทย) (Thai)
 
 Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic
 environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable
@@ -65,6 +65,14 @@ Cloud Native Computing Foundationは、オープンソースでベンダー中�
 이 기술은 회복성, 관리 편의성, 가시성을 갖춘 느슨하게 결합된 시스템을 가능하게 한다. 견고한 자동화 기능을 함께 사용하면, 엔지니어는 영향이 큰 변경을 최소한의 노력으로 자주, 예측 가능하게 수행할 수 있다.
 
 Cloud Native Computing Foundation은 벤더 중립적인 오픈 소스 프로젝트 생태계를 육성하고 유지함으로써 해당 패러다임 채택을 촉진한다. 우리 재단은 최신 기술 수준의 패턴을 대중화하여 이런 혁신을 누구나 접근 가능하도록 한다.
+
+## Dansk:
+
+Cloud native teknologier giver organisationer mulighed for at bygge og køre skalerbare applikationer i moderne, dynamiske miljøer såsom offentlige, private og hybride skyer. Containere, servicemasker, mikrotjenester, uforanderlig infrastruktur og deklarative API'er eksemplificerer denne tilgang.
+
+Disse teknikker muliggør løst koblede systemer, der er robuste, håndterbare og observerbare. Kombineret med robust automatisering giver de ingeniører mulighed for at foretage store ændringer ofte og forudsigeligt med minimal indsats.
+
+Cloud Native Computing Foundation søger at fremme aksept af dette paradigme ved at fremme og opretholde et økosystem af open source, leverandørneutrale projekter. Vi demokratiserer state-of-the-art mønstre for at gøre disse innovationer tilgængelige for alle.
 
 ## Español:
 
